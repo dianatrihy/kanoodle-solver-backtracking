@@ -19,6 +19,7 @@ class Board:
             for c in range(len(piece_shape[r])):
                 if piece_shape[r][c] == 1:
                     self.board[row + r][col + c] = val
+        self.print_board()
 
     def add_piece(self, piece_shape, row, col):
         self.place_piece(piece_shape, row, col, piece_shape.cat())

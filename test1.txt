@@ -1,5 +1,5 @@
-A A A L F F 0 0 0 0 0
-A H L L L F 0 0 0 0 0
-B H H L G I I 0 0 0 0
-B B H H G I E E 0 0 0
-B B G G G I I E E E 0
+J J J J B B D K K 0 0
+I I I E B B D K K 0 0
+I H I E B G D D 0 0 0
+F H H E E G D 0 0 0 0
+F F H H E G G G 0 0 0
